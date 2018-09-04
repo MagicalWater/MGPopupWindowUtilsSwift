@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "9.0"
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.source       = { :git => "git@github.com:MagicalWater/MGPopupWindowUtilsSwift.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/MagicalWater/MGPopupWindowUtilsSwift.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

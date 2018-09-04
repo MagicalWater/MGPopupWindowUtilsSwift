@@ -1,0 +1,6 @@
+framework module Pods_MGPopupWindowUtilsSwift {
+  umbrella header "Pods-MGPopupWindowUtilsSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

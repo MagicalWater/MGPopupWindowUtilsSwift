@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.name         = "MGPopupWindowUtilsSwift"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "Like android PopupWindow"
 
   s.description  = <<-DESC
@@ -28,10 +28,6 @@ Pod::Spec.new do |s|
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.source_files  = "MGPopupWindowUtilsSwift/MGPopupWindowUtilsSwift/Classes/**/*"
-
-  # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  # s.resource  = "icon.png"
-  # s.resources = "Resources/*.png"
 
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.framework  = "UIKit"

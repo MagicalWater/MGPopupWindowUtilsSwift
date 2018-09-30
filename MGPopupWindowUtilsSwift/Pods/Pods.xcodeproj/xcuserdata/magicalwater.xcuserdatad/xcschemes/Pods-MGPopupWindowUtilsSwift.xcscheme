@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "705A9420D6BB82E65F7B93F9311592E0"
+               BlueprintIdentifier = "4A91EB924412F113DF4E8A01E0F242A5"
                BuildableName = "Pods_MGPopupWindowUtilsSwift.framework"
                BlueprintName = "Pods-MGPopupWindowUtilsSwift"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "705A9420D6BB82E65F7B93F9311592E0"
+            BlueprintIdentifier = "4A91EB924412F113DF4E8A01E0F242A5"
             BuildableName = "Pods_MGPopupWindowUtilsSwift.framework"
             BlueprintName = "Pods-MGPopupWindowUtilsSwift"
             ReferencedContainer = "container:Pods.xcodeproj">

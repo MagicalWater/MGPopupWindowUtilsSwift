@@ -5,7 +5,8 @@
 
 如同 Android 的 PopupWindow  
 
-## 版本  
+## 版本
+1.0.0 - 更新 swift version 至 4.2  
 0.0.1 - 初始提交專案  
 
 ## 添加依賴  
